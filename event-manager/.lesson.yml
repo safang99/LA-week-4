@@ -1,0 +1,7 @@
+---
+title: "Event Manager"
+type: "challenge"
+behaviors:
+  - react_on_node
+description: "Practice React presentational component fundamentals"
+tags: "javascript, react, JSX"

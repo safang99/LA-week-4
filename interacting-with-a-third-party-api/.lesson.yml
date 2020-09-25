@@ -1,0 +1,10 @@
+---
+title: "Interacting With a Third Party Api"
+type: "exercise"
+description: "Interact with a third party API"
+tags: "javascript, react"
+behaviors:
+  - react
+  - sinatra
+ignore:
+- "node_modules/"
